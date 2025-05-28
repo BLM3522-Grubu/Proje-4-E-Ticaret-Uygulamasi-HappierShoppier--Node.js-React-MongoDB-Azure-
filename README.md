@@ -3,19 +3,19 @@
 
 ## 📌 İçerik:
 
-- 🛍️ **Ürün ve Kategori Yönetimi:** Kendi ürünlerinizi ve kategorilerinizi oluşturarak işinizi özelleştirme yeteneği kazanacaksınız.
+- 🛍️ **Ürün ve Kategori Yönetimi:** 
 
-- 👥 **Kullanıcı Kaydı ve Girişi:** Kullanıcılarınızı tanıma ve kişiselleştirilmiş deneyimler sunma becerisi geliştireceksiniz.
+- 👥 **Kullanıcı Kaydı ve Girişi:** 
 
-- 💳 **Ödeme Sistemi Entegrasyonu:** Güvenli ödemeleri projenize nasıl entegre edeceğinizi öğreneceksiniz.
+- 💳 **Ödeme Sistemi Entegrasyonu:** 
 
-- 🎁 **Kupon Kodları:** Promosyonlar ve indirimlerle müşteri sadakatini artırmanın stratejilerini öğrenme fırsatı bulacaksınız.
+- 🎁 **Kupon Kodları:** 
 
-- 🖥️ **Admin Paneli:** Projelerinizi etkili bir şekilde yönetmek için kullanıcı dostu bir yönetim paneli oluşturmayı öğreneceksiniz.
+- 🖥️ **Admin Paneli:** 
 
-- 🚀 **Express.js ve MongoDB:** Hızlı uygulamalar geliştirmek ve büyük verileri işlemek için Express.js ve MongoDB kullanmayı pratiğe dökeceksiniz.
+- 🚀 **Express.js ve MongoDB:** 
 
-- 💻 **React ve Ant Design:** Estetik ve kullanıcı dostu arayüzler oluşturarak kullanıcı deneyimini iyileştirmeyi öğreneceksiniz.
+- 💻 **React ve Ant Design:** 
 
-- 🛒 **Sepet İşlemleri:** Alışveriş sepetini yönetme yeteneklerini kazanarak müşterilere daha iyi hizmet verebilmek için gerekli bilgileri edineceksiniz.
+- 🛒 **Sepet İşlemleri:** 
 
