@@ -1,6 +1,6 @@
 # 🚀 React, Express.js, MongoDB ve Ant Design ile Full Stack E-Ticaret Sitesi Geliştirme 🛒
 
-VİDEO LİNKİ: https://drive.google.com/file/d/1A8h34lgjrJHUb_lNxYHiHe71EmaeS4oa/view?usp=sharing
+VİDEO LİNKİ: https://www.youtube.com/watch?v=8lheMN1-wJg
 
 ## 📌 İçerik:
 
