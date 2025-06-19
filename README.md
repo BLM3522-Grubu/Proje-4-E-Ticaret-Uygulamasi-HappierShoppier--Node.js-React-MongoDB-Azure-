@@ -1,5 +1,6 @@
 # 🚀 React, Express.js, MongoDB ve Ant Design ile Full Stack E-Ticaret Sitesi Geliştirme 🛒
 
+VİDEO LİNKİ: https://drive.google.com/file/d/1A8h34lgjrJHUb_lNxYHiHe71EmaeS4oa/view?usp=sharing
 
 ## 📌 İçerik:
 
@@ -18,4 +19,16 @@
 - 💻 **React ve Ant Design:** 
 
 - 🛒 **Sepet İşlemleri:** 
+
+Yapılan İşlemler ve Önemli Konu Başlıkları
+auth.js Kimlik Doğrulama İşlemleri
+categories.js Kategoriler İşlemleri
+coupons.js Kupon İşlemleri (CRUD Açıklamaları)
+routes/index.js Açıklaması (Router Merkez Dosyası)
+payment.js Açıklaması
+Açıklama: products.js
+Açıklama: users.js
+Azure’da Backend Dağıtımı ve Buluta Bağlantı Süreci
+Azure’da Frontend Yayınlama (Static Web App)
+MongoDB Atlas Veritabanı ve Koleksiyon Oluşturma Süreci
 
